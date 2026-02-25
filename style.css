@@ -87,6 +87,21 @@ footer {
     bottom: 0;
 }
 
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.footer-nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 0.5rem;
+}
+
+.footer-nav a:hover {
+    text-decoration: underline;
+}
+
 /* Product grid styles */
 .products h2 {
     color: #0078d4;
